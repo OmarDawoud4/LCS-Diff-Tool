@@ -1,0 +1,5 @@
+Welcome to the text comparison utility.
+This tool helps you find the longest common subsequence.
+It can be useful for analyzing changes in documents.
+Feel free to experiment with different texts.
+Have a great day!
